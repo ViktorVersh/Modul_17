@@ -9,7 +9,7 @@ async def all_user():
     pass
 
 
-@user_router.get('/{id}')
+@user_router.get('/user_id')
 async def user_by_id():
     pass
 
