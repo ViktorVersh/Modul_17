@@ -1,6 +1,6 @@
 from fastapi import APIRouter
 
-router = APIRouter(prefix= "/category")
+router = APIRouter(prefix="/category", tags=["category"])
 
 
 @router.get("/all_categories")
