@@ -1,0 +1,6 @@
+SQLAlchemy~=2.0.37
+uvicorn~=0.34.0
+fastapi~=0.115.8
+alembic~=1.15.1
+pydantic~=2.10.6
+python-slugify~=8.0.4
